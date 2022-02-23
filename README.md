@@ -31,6 +31,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryodeushii&show_icons=true&theme=ayu-mirage&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ryodeushii&theme=ayu-mirage&count_private=true)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryodeushii&langs_count=8&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
