@@ -12,4 +12,5 @@
 Connect with me here: <a href = 'https://www.linkedin.com/in/eugenekapusta'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryodeushii&exclude_repo=gem80-qmk-firmware-non-forked,qmk-firmware&langs_count=8&layout=compact&theme=ayu-mirage&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=ryodeushii&show_icons=true&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryodeushii&exclude_repo=gem80-qmk-firmware-non-forked,qmk-firmware&langs_count=8&layout=compact&theme=transparent&hide_border=true)
