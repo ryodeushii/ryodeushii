@@ -1,7 +1,6 @@
 <a href= "https://github.com/ryodeushii?tab=repositories&q=&type=&language=typescript&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= "https://github.com/ryodeushii?tab=repositories&q=&type=&language=go&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 <a href= "https://github.com/ryodeushii?tab=repositories&q=&type=&language=rust&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
-<a href= "https://github.com/ryodeushii?tab=repositories&q=&type=&language=javascript&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= "https://github.com/ryodeushii?tab=repositories&q=&type=&language=bash&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 <a href= "https://github.com/ryodeushii?tab=repositories&q=&type=&language=docker&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= "https://github.com/ryodeushii?tab=repositories&q=&type=&language=linux&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
